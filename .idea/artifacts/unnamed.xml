@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="module-source" name="NotasAlunos" />
+      <element id="archive" name="notas.jar" />
+      <element id="archive" name="NotasAlunos.jar">
+        <element id="module-output" name="NotasAlunos" />
+      </element>
+    </root>
+  </artifact>
+</component>
